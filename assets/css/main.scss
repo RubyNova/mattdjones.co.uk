@@ -4,5 +4,106 @@
 
 @charset "utf-8";
 
+$masthead-color: #14141c !default;
+$background-color: #181818 !default;
+$accents: #ffa000 !default;
+$text-color: #eaeaea !default;
+$primary-color: #00adb5 !default;
+$border-color: mix(#fff, $background-color, 20%) !default;
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color-dark: mix(#000, $background-color, 20%) !default;
+$form-background-color: mix(#000, $background-color, 15%) !default;
+$footer-background-color: mix(#000, $background-color, 30%) !default;
+$link-color: #ffa000 !default;
+$link-color-hover: mix(#fff, $link-color, 25%) !default;
+$link-color-visited: #ffa000 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
+$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+
+#main {
+    max-width: 1920px !important;
+}
+
+.breadcrumbs {
+    max-width: 1920px !important;
+}
+
+.sidebar.sticky {
+    margin-left: 1em !important;
+}
+
+/* Colors */
+.author__avatar img {
+    border: 1px solid $accents !important;
+}
+
+.masthead {
+    background-color: $masthead-color !important;
+    border-bottom: 1px solid $accents !important;
+}
+
+.greedy-nav {
+    background: $accents !important;
+    background-color: $masthead-color !important;
+}
+
+.archive__subtitle {
+    border-bottom: 1px solid $accents !important;
+}
+
+.navicon::before, .navicon::after, .navicon {
+    background: $accents !important;
+}
+
+.toc .nav__title {
+    background: mix(#000, $accents, 15%) !important;
+}
+
+.toc .active a {
+    background-color: mix(#000, $accents, 20%) !important;
+    color: #fff !important;
+}
+
+.visible-links ::before {
+    background: $accents !important;
+}
+
+.search__toggle {
+    color: $accents !important
+}
+
+.social-icons {
+    .fa-map-marker-alt {
+        color: $accents !important; 
+    }
+
+    .fa-discord {
+        color: $accents !important; 
+    }
+
+    .fa-github {
+        color: $accents !important; 
+    }
+
+    .fa-twitter-square {
+        color: $accents !important;
+    }
+
+    .fa-rss-square {
+        color: $accents !important;
+    }
+
+    .fa-envelope-square {
+        color: $accents !important;
+    }
+}
+
+.btn--inverse {
+    background-color: mix(#000, $accents, 10%) !important;
+    color: $text-color !important;
+}
+  
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

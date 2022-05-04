@@ -1,0 +1,25 @@
+---
+# Front Matter
+---
+
+@charset "utf-8";
+
+#main {
+    max-width: 1920px !important;
+}
+
+.breadcrumbs {
+    max-width: 1920px !important;
+}
+
+.sidebar.sticky {
+    margin-left: 1em !important;
+}
+
+.archive__item-teaser {
+    border: 2px solid #ffa000 !important;
+}
+
+.grid__item .archive__item-teaser {
+    max-height: 250px !important;
+}
