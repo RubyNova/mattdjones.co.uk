@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Erlite"
 description              : "C# & C++ Game Developer"
-domain:                  : "erlite.dev"
+domain                   : "erlite.dev"
 url                      : "https://erlite.dev/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Erlite/erlite.dev" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
