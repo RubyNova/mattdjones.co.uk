@@ -4,6 +4,24 @@
 
 <!-- end custom head snippets -->
 
+<meta content="erlite.dev | {{page.title}}" property="og:title" />
+{% if page.subtitle %}
+  <meta content="{{ page.subtitle }}" property="og:description" />
+{% else %}
+  {% if page.excerpt %}
+    <meta content="{{ page.excerpt }}" property="og:description" />
+  {% endif %}
+{% endif %}
+<meta content="{% page.url %}" property="og:url" />
+{% if page.header.image %}
+<meta content="{{ page.header.image }}" property="og:image" />
+{% else %}
+  {% if page.header.teaser %}
+    <meta content="{{ page.header.teaser }}" property="og:image" />
+  {% endif %}
+{% endif %}
+<meta content="#FFA000" data-react-helmet="true" name="theme-color" />
+
 {% if page.page_css %}
   {% for stylesheet in page.page_css %}
   <link rel="stylesheet" href="{{ stylesheet | relative_url }}">
