@@ -103,6 +103,10 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
     background-color: mix(#000, $accents, 10%) !important;
     color: $text-color !important;
 }
+
+blockquote {
+    border-left: 0.25em solid $accents !important;
+}
   
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
