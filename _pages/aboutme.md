@@ -32,6 +32,8 @@ As such, I became a C# and C++ Programmer, mostly working in gameplay and networ
 
 I'm a big fan of anime and guns (if I wasn't a game dev, I probably would've went into gunsmithing). My contact info is on the left if you have any questions about my blog posts (or if you want to hire me).
 
+You can find some of my open source work on [Github](https://github.com/Erlite/).
+
 I currently work at Periscope Games, as a Senior Gameplay Programmer for [Post Scriptum](https://store.steampowered.com/app/736220/Post_Scriptum/).
 
 ## Technologies
