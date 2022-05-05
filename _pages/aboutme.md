@@ -4,6 +4,7 @@ entries_layout: grid
 collection: portfolio
 classes: wide
 title: About Me
+excerpt: Welcome to my blog & portfolio!
 permalink: /about/
 author:
     name: "Contact Me"
