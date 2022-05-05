@@ -28,3 +28,19 @@ sidebar:
       new_tab: true
       url: "http://postscriptumgame.com/"
 ---
+
+> Post Scriptum is a WW2 simulation game, focusing on historical accuracy, large scale battles, a difficult learning curve and an intense need for cohesion, communication and teamwork.
+
+## Responsibilities
+
+- Gameplay Programming
+  - Implementation of Quality of Life additions, as well as fixing issues present in the game.
+  - Networking optimizations in order to allow game servers to run with at least 100 players, via the replication graph.
+- Editor Tools
+  - Housekeeping tools to keep the project clean and fix asset issues in bulk. 
+  - Level Design oriented tools for the level design team.
+  - Plugin that handles chunking of cooked packages according to the path of the asset. This allows distribution platforms to patch games more efficiently. 
+
+## Media
+
+{% include video id="Rv6t_X_3TEs" provider="youtube" %}
