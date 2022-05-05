@@ -13,10 +13,12 @@
   {% endif %}
 {% endif %}
 {% if page.header.image %}
-<meta content="{{ page.header.image }}" property="og:image" />
+<meta name="twitter:card" content="summary_large_image">
+<meta content="{{ page.header.image }}" property="twitter:image" />
 {% else %}
   {% if page.header.teaser %}
-    <meta content="{{ page.header.teaser }}" property="og:image" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta content="{{ page.header.teaser }}" property="twitter:image" />
   {% endif %}
 {% endif %}
 <meta content="#FFA000" data-react-helmet="true" name="theme-color" />
