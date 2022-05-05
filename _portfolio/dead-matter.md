@@ -2,10 +2,10 @@
 layout: single
 title: Dead Matter
 classes: wide
-excerpt: "Gameplay Programmer, Lead Programmer"
+excerpt: "Senior Programmer, Lead Programmer"
 header:
-    show_overlay_excerpt: true
-    image: /assets/portfolio/deadmatter-header.png
+    show_overlay_excerpt: false
+    overlay_image: /assets/portfolio/deadmatter-header.jpg
     teaser: /assets/portfolio/deadmatter-header.png
 page_css:
     - assets/css/portfolio.css
@@ -19,7 +19,7 @@ sidebar:
   - title: "Technologies"
     text: "Unreal Engine 4, C++<br/>Blueprints, SQLite"
   - title: "Platforms"
-    text: "PC - Steam<br/>SDK - Epic Games"
+    text: "PC - Steam"
   - button:
       text: "Website"
       type: light-outline
