@@ -24,7 +24,7 @@ page_css:
 ---
 
 \
-Hi, I'm Erlite, a 22 years-old game developer from France.
+Hi, I'm Erlite, a 22 year old game developer from France.
 
 After finishing college in the UK under a Game Design and Development course, I decided to jump in the industry directly instead of pursuing higher education.
 
