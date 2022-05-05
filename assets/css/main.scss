@@ -107,6 +107,11 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 blockquote {
     border-left: 0.25em solid $accents !important;
 }
+
+.grid__item .archive__item-teaser {
+    border: 1px solid $accents !important;
+    max-height: 225px !important;
+}
   
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

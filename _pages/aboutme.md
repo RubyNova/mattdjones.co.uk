@@ -4,7 +4,7 @@ entries_layout: grid
 collection: portfolio
 classes: wide
 title: About Me
-excerpt: Hey! Nice to meet you.
+excerpt: Hey, nice to meet you.
 permalink: /about/
 author:
     name: "Contact Me"
