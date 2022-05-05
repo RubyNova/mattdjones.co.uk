@@ -47,6 +47,5 @@ The project has seen two successful crowdfunding campaigns, the first on [Kickst
   - Housekeeping tools to keep the project clean and fix asset issues in bulk. 
   - Level Design oriented tools for the level design team.
 - Lead Programmer
-  - Temporarily assigned due to missing one for a few months, until I was then sidegraded to Senior Programmer.
   - Lead newer members of the team through the codebase, helping them understand it and proceed with their tasks.
   - Ensure proper application of the codebase's coding standards, and make sure code is kept maintainable at all times.
