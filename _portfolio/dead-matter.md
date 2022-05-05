@@ -2,7 +2,7 @@
 layout: single
 title: Dead Matter
 classes: wide
-excerpt: "Senior Programmer, Lead Programmer"
+excerpt: "Programmer, Lead Programmer"
 header:
     show_overlay_excerpt: false
     overlay_image: /assets/portfolio/deadmatter-header.jpg
@@ -11,7 +11,7 @@ page_css:
     - assets/css/portfolio.css
 sidebar:
   - title: "Roles"
-    text: "Senior Programmer<br/>Lead Programmer"
+    text: "Programmer<br/>Lead Programmer"
   - title: "Studio"
     text: "[Quantum Integrity Software](https://qi.games/)"
   - title: "Date"
