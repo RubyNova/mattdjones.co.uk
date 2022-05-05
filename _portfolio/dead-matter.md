@@ -6,11 +6,11 @@ excerpt: "Senior Programmer, Lead Programmer"
 header:
     show_overlay_excerpt: false
     overlay_image: /assets/portfolio/deadmatter-header.jpg
-    teaser: /assets/portfolio/deadmatter-header.png
+    teaser: /assets/portfolio/deadmatter-teaser.png
 page_css:
     - assets/css/portfolio.css
 sidebar:
-  - title: "Role"
+  - title: "Roles"
     text: "Senior Programmer<br/>Lead Programmer"
   - title: "Studio"
     text: "[Quantum Integrity Software](https://qi.games/)"

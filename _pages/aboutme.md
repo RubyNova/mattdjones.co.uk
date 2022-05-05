@@ -4,7 +4,7 @@ entries_layout: grid
 collection: portfolio
 classes: wide
 title: About Me
-excerpt: Welcome to my blog & portfolio!
+excerpt: Hey! Nice to meet you.
 permalink: /about/
 author:
     name: "Contact Me"
@@ -34,14 +34,14 @@ I'm a big fan of anime and guns (if I wasn't a game dev, I probably would've wen
 
 I currently work at Periscope Games, as a Senior Gameplay Programmer for [Post Scriptum](https://store.steampowered.com/app/736220/Post_Scriptum/).
 
-## Knowledge
+## Technologies
 
-- C# (about 6 years)
-- C++ (about 4 years)
-- Lua (mostly scripting mods for games like Garry's Mod)
+- C# & .NET
+- C++
+- Lua
+- SQL
 - Unity 
 - Unreal Engine 4 & 5
-  - Gameplay Programming and Networking
 
 
 ## Portfolio

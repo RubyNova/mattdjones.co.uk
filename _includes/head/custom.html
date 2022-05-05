@@ -12,13 +12,18 @@
     <meta content="{{ page.excerpt }}" property="og:description" />
   {% endif %}
 {% endif %}
-{% if page.header.image %}
+{% if page.header.teaser %}
 <meta name="twitter:card" content="summary_large_image">
-<meta content="{{ page.header.image }}" property="twitter:image" />
+<meta content="{{ page.header.teaser }}" property="twitter:image" />
 {% else %}
-  {% if page.header.teaser %}
+  {% if page.header.image %}
     <meta name="twitter:card" content="summary_large_image">
-    <meta content="{{ page.header.teaser }}" property="twitter:image" />
+    <meta content="{{ page.header.image }}" property="twitter:image" />
+  {% endif %}
+{% else %}
+  {% if page.header.overlay_image %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta content="{{ page.header.overlay_image }}" property="twitter:image" />
   {% endif %}
 {% endif %}
 <meta content="#FFA000" data-react-helmet="true" name="theme-color" />
