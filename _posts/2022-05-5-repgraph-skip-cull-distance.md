@@ -197,6 +197,9 @@ We'll need to update the signature of the replication paths to pass in the set.
     void ReplicateActorListsForConnections_FastShared(UNetReplicationGraphConnection* ConnectionManager, FGatheredReplicationActorLists& GatheredReplicationListsForConnection, TSet<FActorRepListType>& SkipNetCullDistanceActorsForConnection, FNetViewerArray& Viewers);
 ```
 
+**Warning:** Remember to also do it in the .cpp file.
+{: .notice--warning}
+
 ### Replication Paths
 
 Finally, we'll skip the cull distance check in both paths, if the actor is part of the set.
