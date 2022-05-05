@@ -11,7 +11,7 @@ page_css:
     - assets/css/portfolio.css
 sidebar:
   - title: "Role"
-    text: "Gameplay Programmer<br/>Lead Programmer"
+    text: "Senior Programmer<br/>Lead Programmer"
   - title: "Studio"
     text: "[Quantum Integrity Software](https://qi.games/)"
   - title: "Date"
