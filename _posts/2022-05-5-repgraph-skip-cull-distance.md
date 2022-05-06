@@ -4,6 +4,7 @@ layout: posts
 toc_label: "Table of Contents"
 toc_icon: "heart"
 excerpt: "Allowing you to have an actor be both always relevant and spatialized, on a per connection basis."
+tags: c++ networking repgraph
 header:
     teaser: assets/posts/repgraph-skip-cull-distance/teaser.png
 ---
@@ -23,7 +24,7 @@ This constraint was due to how the map marker system works: markers are tied to 
 
 Rewriting this system would be too much of a hassle, so I opted for the following approach.
 
-## Preparing the replication nodes.
+## Preparing the replication nodes
 
 In order for this to work, you'll need the following nodes:
 
@@ -102,7 +103,7 @@ void UMyReplicationGraph::RouteRemoveNetworkActorToNodes(const FNewReplicatedAct
 **Warning:** If your actors can change team, remember to handle that occurrence and move them to the correct team node, via a delegate.
 {: .notice--warning}
 
-## The pitfall.
+## The pitfall
 
 Grid spatialized actors require a net cull distance to work. You cannot set it to zero like normal AlwaysRelevant actors.<br/>
 
@@ -110,7 +111,7 @@ The issue is that the replication graph does not know an actor is always relevan
 
 As such, team relevant actors using the nodes above will still be removed from clients based on the net cull distance. Let's fix that.
 
-## Modifying the engine.
+## Modifying the engine
 
 There are two things we need to modify in the engine:
 
@@ -276,7 +277,7 @@ Finally, we'll skip the cull distance check in both paths, if the actor is part 
 
 Congratulations, if you've done it correctly, the engine should now support per-connection distance culling bypass. 
 
-## Adding it to our nodes.
+## Adding it to our nodes
 
 The last step is for our custom node to keep track of actors that should ignore distance culling.
 
