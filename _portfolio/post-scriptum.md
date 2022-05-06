@@ -31,6 +31,8 @@ sidebar:
 
 > Post Scriptum is a WW2 simulation game, focusing on historical accuracy, large scale battles, a difficult learning curve and an intense need for cohesion, communication and teamwork.
 
+<iframe src="https://store.steampowered.com/widget/736220/215056/" frameborder="0" style="width:100%" height="190"></iframe>
+
 ## Responsibilities
 
 - Gameplay Programming

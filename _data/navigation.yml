@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Unreal Engine Tutorials"
+    url: "/"
   - title: "About Me"
     url: /about/
   # - title: "Sample Posts"
