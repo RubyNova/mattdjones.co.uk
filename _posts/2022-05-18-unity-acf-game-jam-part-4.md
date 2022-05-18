@@ -1,5 +1,5 @@
 ---
-title: "How one game jam made me create a custom in-engine compiler tool for a brand-new narrative scripting language I made up in less than an hour. Part 4: Editor tooling"
+title: "In-Engine Narrative Compiler - Part 4: Editor tooling"
 layout: posts
 toc_label: "Table of Contents"
 toc_icon: "heart"

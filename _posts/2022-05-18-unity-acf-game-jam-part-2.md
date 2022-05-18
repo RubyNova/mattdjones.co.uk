@@ -1,9 +1,9 @@
 ---
-title: "How one game jam made me create a custom in-engine compiler tool for a brand-new narrative scripting language I made up in less than an hour. Part 2: Implementation details that matter"
+title: "In-Engine Narrative Compiler - Part 2: Data Is King"
 layout: posts
 toc_label: "Table of Contents"
 toc_icon: "heart"
-excerpt: "Data is king. The more you can drive the game purely with content data, the easier your life is."
+excerpt: "The more you can drive the game purely with content data, the easier your life is."
 tags: c# unity tool tooling narrative scripting custom scriptableobject
 header:
     teaser: assets/posts/unity-acf-game-jam/teaser.png

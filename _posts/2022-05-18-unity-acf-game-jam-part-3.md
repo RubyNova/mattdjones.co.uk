@@ -1,5 +1,5 @@
 ---
-title: "How one game jam made me create a custom in-engine compiler tool for a brand-new narrative scripting language I made up in less than an hour. Part 3: The Compiler/Interpreter/Thing???"
+title: "In-Engine Narrative Compiler - Part 3: The Compiler/Interpreter/Thing???"
 layout: posts
 toc_label: "Table of Contents"
 toc_icon: "heart"
