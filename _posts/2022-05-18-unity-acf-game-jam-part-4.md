@@ -401,6 +401,8 @@ Writing tools for a game jam was something I never really considered doing until
 
 ...also probably more efficient too, looking at that `Interpret` method again. Oof. Oh well, just game jam things I suppose. I'll probably be writing a follow-up post on the Unity tooling side of things in the semi-near future, where I hopefully rewrite the UI to UXML. Hopefully UXML does a better job than these Unity 4 APIs. They still work...but...they feel very unfinished.
 
+If you're interested in the ful implementation of this, [you can find it at this repository here.](https://github.com/RubyNova/AcfGameJam2022)
+
 ## Game Jam Bundle!
 
 If what I have been working on in this series has interested you, or you just want to play the finished game, you can get the game as part of a small bundle or $3 as part of an autistic charity fundraiser. I'd really appreciate it if you spent the money for a good cause, as this is something that's very personal to me. Plus, the game is not finished, we have more content to add, so definitely more to look forward to from a gameplay perspecrtive! [You can find the bundle here, and we would really appreciate your financial suport if you can spare it!](https://itch.io/b/1369/autism-acceptance-month-game-jam)
