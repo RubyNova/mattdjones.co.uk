@@ -52,6 +52,9 @@ I hope you enjoy the adventure with me!
 - Unreal Engine 4 & 5
 - HLSL
 - GLSL
+- Vulkan
+- DirectX 12
+- OpenGL
 - SPIR-V
 
 ## Blog Posts
