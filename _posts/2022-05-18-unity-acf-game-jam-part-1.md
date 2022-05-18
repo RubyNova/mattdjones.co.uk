@@ -11,7 +11,7 @@ header:
 
 ## Setting the Scene...
 
-It's 8th April. I'm sitting down for my first meeting with my game jam teammates, and friends, for the Autistic Creative Festival game jam (I'll update this with a relevant link in the future). We are discussing the game we want to work on for the month. We actually settled on an idea fairly quickly! One junior programmer, myself (so the make-do senior programmer of the group), two artists, one of which wrote all the narrative for the game - the other ended up working on the game's soundtrack with me.
+It's 8th April. I'm sitting down for my first meeting with my game jam teammates, and friends, for the [Autism Acceptance Month Game Jam](https://itch.io/b/1369/autism-acceptance-month-game-jam). We are discussing the game we want to work on for the month. We actually settled on an idea fairly quickly! One junior programmer, myself (so the make-do senior programmer of the group), two artists, one of which wrote all the narrative for the game - the other ended up working on the game's soundtrack with me.
 
 The theme is autistic experiences. We decide on a game idea fairly fast.
 
