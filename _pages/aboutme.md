@@ -1,49 +1,57 @@
 ---
 layout: collection
 entries_layout: grid
-collection: portfolio
+collection: posts
 classes: wide
 title: About Me
-excerpt: Hey, nice to meet you.
+excerpt: Hello there, kind reader!
 permalink: /about/
 author:
     name: "Contact Me"
     bio:  ""
-    location: "France (GMT +2)"
-    email: "contact@erlite.dev"
+    location: "United Kingdom"
+    email: "matthewj866@gmail.com"
     links:
-        - label: "Erlite#1337"
-          icon: "fa-brands fa-discord"
-          url: "https://discord.gg/unreal-slackers"
-        - label: "Twitter"
-          icon: "fab fa-fw fa-twitter-square"
-          url: "https://twitter.com/erlitedev"
+      - label: "NovelRT (RubyNova#0404)"
+        icon: "fa-brands fa-discord"
+        url: "https://discord.novelrt.dev/"
+      - label: "C#"
+        icon: "fa-brands fa-discord"
+        url: "https://discord.gg/csharp"
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/RubyNovaDev"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/RubyNova"
 
 page_css:
     - /assets/css/about.css
 ---
 
 \
-Hi, I'm Erlite, a 22 year old game developer from France.
+Hello there kind reader! I'm Matt, or as most people know meon the internet, RubyNova - a Welsh game developer who lives in the UK!
 
-After finishing college in the UK under a Game Design and Development course, I decided to jump in the industry directly instead of pursuing higher education.
+I am a Microsoft MVP for Developer Technologies and a massive advocate for .NET, C#, and C++ as my friends would probably attest to by the fact I talk about it almost all the time. As such, its probably no surprise that I happen to own the [C# community Discord](https://discord.gg/csharp) that is linked to by the .NET Foundation itself.
 
-As such, I became a C# and C++ Programmer, mostly working in gameplay and networking code for games, using both Unity and Unreal Engine (even though the latter is my favorite!).
+I also absolutely love games development, graphics/rendering programming especially. So much so that I got the insane idea to write my own game engine with a few friends. It's easily the project I am most passionate about, and have sunk the most time into. The game engine, [NovelRT](https://github.com/NovelRT/NovelRT), is probably my most creative outlet, and I am hoping long-term it will become really viable as FOSS. I also oversee, and support the development of, a Lua-based narrative scripting language called [Fabulist](https://github.com/NovelRT/Fabulist).
 
-I'm a big fan of anime and guns (if I wasn't a game dev, I probably would've went into gunsmithing). My contact info is on the left if you have any questions about my blog posts (or if you want to hire me).
+I happen to spend much of my time in both Unity and Unreal Engine as well, either for work or for game jams (Ludum Dare is great fun!). It was certainly an interesting transition when taking my BSc. Hons. in Games Design & Development from regular .NET and C#, but definitely a transition I am happy I made! It was what originally got me into graphics programming, with the exposure to shader programming, particle systems, lighting, etc.
 
-You can find some of my open source work on [Github](https://github.com/Erlite/).
+This website will serve as a mirror to my [GitHub](https://github.com/RubyNova) portfolio, as well as my personal blogging site where I'll probably write about different tech bits from time to time.
 
-I currently work at Periscope Games, as a Senior Gameplay Programmer for [Post Scriptum](https://store.steampowered.com/app/736220/Post_Scriptum/).
+I hope you enjoy the adventure with me!
 
 ## Technologies
 
-- C# & .NET
+- C# & .NET (Core LTS, 6)
+- C
 - C++
 - Lua
-- SQL
 - Unity 
 - Unreal Engine 4 & 5
+- HLSL
+- GLSL
+- SPIR-V
 
-
-## Portfolio
+## Blog Posts

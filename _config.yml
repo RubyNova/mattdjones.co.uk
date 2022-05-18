@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "erlite.dev"
+title                    : "mattdjones.co.uk"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Erlite"
+name                     : "Matt Jones"
 description              : "C# & C++ Game Developer"
-domain                   : "erlite.dev"
-url                      : "https://erlite.dev/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+domain                   : "mattdjones.co.uk"
+url                      : "https://mattdjones.co.uk/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Erlite/erlite.dev" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "RubyNova/mattdjones.co.uk" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -103,31 +103,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erlite"
-  avatar           : "https://github.com/Erlite.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Gameplay Programmer @ Periscope Games"
-  location         : "France"
-  email            : "contact@erlite.dev"
+  name             : "Matt Jones (RubyNova)"
+  avatar           : "https://github.com/RubyNova.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Engine internals, tooling and rendering engineer @ Sumo Digital. Microsoft MVP. FOSS and pizza lover. Fixer of Vulkan pipelines. Founder of the NovelRT Game Engine."
+  location         : "United Kingdom"
+  email            : "matthewj866@gmail.com"
   links:
-    - label: "Erlite#1337"
+    - label: "NovelRT (RubyNova#0404)"
       icon: "fa-brands fa-discord"
-      url: "https://discord.gg/unreal-slackers"
+      url: "https://discord.novelrt.dev/"
+    - label: "C#"
+      icon: "fa-brands fa-discord"
+      url: "https://discord.gg/csharp"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/erlitedev"
+      url: "https://twitter.com/RubyNovaDev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Erlite"
+      url: "https://github.com/RubyNova"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/erlitedev"
+      url: "https://twitter.com/RubyNovaDev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Erlite"
+      url: "https://github.com/RubyNova"
 
 # Reading Files
 include:
